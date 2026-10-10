@@ -6,9 +6,6 @@ Power BI dashboard for a portfolio of 15 finance projects. It answers four quest
 
 The data is simulated (dummy data). The styling is inspired by DHL Express, and the scenario is inspired by the kind of finance projects a large express-logistics company might run. It contains no real DHL data and is an independent portfolio project, not affiliated with or endorsed by DHL.
 
-![Overview](screenshots/overview.png)
-![Project details](screenshots/project-details.png)
-
 ## What is in this repo
 
 - `PMO_Dashboard.pbix` - the Power BI file (open with Power BI Desktop, Windows)
